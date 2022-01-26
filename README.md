@@ -88,7 +88,18 @@ Steps:
 
 npx create-react-app frontend
 
+create folder name contract and copy contract json files for each contract
 
+create a file to connect frontend to interact with contract using ethers or web3
+
+
+Get mnemonic :
+ganache-cli --mnemonic
+Mnemonic:      humble spatial curtain life dice offer seat reunion consider bubble kangaroo cereal
+
+Place mnemonic in truffle config file 
+
+add build directory to truffle file : contracts_build_directory: './frontend/src/contracts'
 
 
 
