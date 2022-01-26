@@ -65,10 +65,28 @@ run truflle compile : to compile contracts
 
 run truffle migrate : to deploy contract using Ganache network
 
+
+Contract created: 0xa46603800e2edee379753042b21cc388041e7fc6 ---Migration core
+
+Contract created: 0xbf5b8ed247d6365ad18a155621185eb95f5115e8---migration periphery
+
+Contract created: 0x7ecd310f282ed005a3f87dcbb5455a6f6295d060---WETH 
+
+Contract created: 0x5db21465904704d486da0933aeb2d6b49fd8e973 --- UniswapV2Router
+
+
 NB:
-no deploymeent code
-smart contracts are in different repo and they use different versions
-two separate truffle project
+
+1. No deploymeent code
+
+2. smart contracts are in different repo and they use different versions.
+3. two separate truffle project need to be created.
+
+FRONT END DONE IN REACT
+
+Steps:
+
+npx create-react-app frontend
 
 
 
