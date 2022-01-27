@@ -1,3 +1,15 @@
+In this project  Uniswapv2 was forked and a clone was created with the implementation 
+of two simple tokens to exchange Token X and Token Y.
+
+Technologies and Framework used:
+1. Node.js
+2. Ganache
+3. React
+4. Solidity
+5. Metamask
+6. Truffle 
+
+
 Clone V2 core from uniswap
 
 Clone periphery from uniswap 
