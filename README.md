@@ -59,11 +59,22 @@ create WETH contract *uniswap does not use ether but only use wrapped ether for 
 
 Find address for Wrapped Ether and copy code 
 
-run ganache-cli
+copy the Factory contract address and paste in the 'deploy_contracts.js' Factory Address
+copy the WETH address and paste in the 'deploy_contracts.js' WETH Address
+
+Ensure Ganache is still running 
+
+comment Part of the contract in the 'UniswapV2Router02.sol' will get run out of gas error.
+from :// **** SWAP (supporting fee-on-transfer tokens) ****  to  // **** LIBRARY FUNCTIONS ****
+
+comment Part of the contract in the 'IUniswapV2Router02.sol' will get run out of gas error.
+from :'function swapExactTokensForTokensSupportingFeeOnTransferTokens' to  END
 
 run truflle compile : to compile contracts
 
 run truffle migrate : to deploy contract using Ganache network
+
+You can add Ganache to the interface version by adding both Truffle config files to Project in interface.
 
 
 
