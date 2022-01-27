@@ -110,22 +110,36 @@ add build directory to truffle file : contracts_build_directory: './frontend/src
 
 
 
-![img1](https://user-images.githubusercontent.com/90293555/151086332-5919dce4-66a3-40c0-aed9-d918ca21ce4d.jpg)
+![img1](https://user-images.githubusercontent.com/90293555/151400986-871197ca-3ccf-42db-bdd2-97a36f212f67.jpg)
+
+
+![img2](https://user-images.githubusercontent.com/90293555/151401019-046fc935-ec0b-44da-9a74-00f278ca3d79.jpg)
 
 
 
-![img2](https://user-images.githubusercontent.com/90293555/151086342-427013d1-4810-40d6-8ecb-74c2633a1e96.jpg)
+![img3](https://user-images.githubusercontent.com/90293555/151401047-542b653d-8ec9-4fea-9f75-17de64c62391.jpg)
 
 
-![img3](https://user-images.githubusercontent.com/90293555/151086350-194e0e6e-baea-48b1-a6b6-0e3e09f58c64.jpg)
+GANACHE INTERFACE:
+
+![img4](https://user-images.githubusercontent.com/90293555/151401069-0f2e962c-7480-4313-8bf4-bc2b84a2c56c.jpg)
 
 
-![Gimg1](https://user-images.githubusercontent.com/90293555/151086359-f5100ec4-32ea-4901-bb83-fc9002c306e5.jpg)
+
+![img5](https://user-images.githubusercontent.com/90293555/151401093-22286bc3-f7b7-455e-91ad-f1cd6b904a8d.jpg)
 
 
-![Gimg2](https://user-images.githubusercontent.com/90293555/151086377-73d937c6-1141-42d6-8ec7-3a8bcbb09959.jpg)
+
+![img6](https://user-images.githubusercontent.com/90293555/151401107-d7019987-cb9c-4464-b13a-5277f5d96d43.jpg)
 
 
-![Gimg3](https://user-images.githubusercontent.com/90293555/151086392-36b169de-29ab-44b0-9167-34442cd05f24.jpg)
+GANACHE INTERFACE:
 
+![img7](https://user-images.githubusercontent.com/90293555/151401148-c46e3f69-3af7-4ed7-9bee-34c1e731473b.jpg)
+
+
+
+
+
+![img8](https://user-images.githubusercontent.com/90293555/151401571-0655e2d1-61eb-4731-919d-a138f7e8f9ac.jpg)
 
