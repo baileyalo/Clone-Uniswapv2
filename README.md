@@ -1,10 +1,7 @@
-clone V2 core from uniswap
-clone periphery from uniswap 
+Clone V2 core from uniswap
+Clone periphery from uniswap 
 
-
-update factory smart contract 
-
-create token A and token B simple ERC20 contract
+Create Token X and Token Y simple ERC20 contract
 
 npm install -g truffle
 
@@ -28,7 +25,7 @@ update deploy_contracts.js
 
 npm install -g ganache-cli 
 
-check truffle config file development port : 8545
+check truffle config file development port : 7545
 
 run ganache-cli
 
@@ -76,8 +73,6 @@ run truffle migrate : to deploy contract using Ganache network
 
 You can add Ganache to the interface version by adding both Truffle config files to Project in interface.
 
-
-
 NB:
 
 1. No deploymeent code
@@ -89,13 +84,12 @@ FRONT END DONE IN REACT
 
 Steps:
 
-Clone interface 
+Clone interface repo
 
 npm install --global yarn
 
-yarn start
 
-update the router address using the deployed router contract address
+Update the router address using the deployed router contract address
 
 Generate the hash init using the Bytecode of UniswapV2Library contract 
 
@@ -113,14 +107,7 @@ Generate the hash init using the Bytecode of UniswapV2Library contract
             ))));
     }
 
-Get mnemonic :
-ganache-cli --mnemonic
-Mnemonic:      humble spatial curtain life dice offer seat reunion consider bubble kangaroo cereal
-
-Place mnemonic in truffle config file 
-
-add build directory to truffle file : contracts_build_directory: './frontend/src/contracts'
-
+yarn start
 
 
 ![img1](https://user-images.githubusercontent.com/90293555/151400986-871197ca-3ccf-42db-bdd2-97a36f212f67.jpg)
