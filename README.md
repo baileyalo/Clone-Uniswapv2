@@ -64,10 +64,10 @@ copy the WETH address and paste in the 'deploy_contracts.js' WETH Address
 
 Ensure Ganache is still running 
 
-comment Part of the contract in the 'UniswapV2Router02.sol' will get run out of gas error.
+COMMENT Part of the contract in the 'UniswapV2Router02.sol' will get run out of gas error.
 from :// **** SWAP (supporting fee-on-transfer tokens) ****  to  // **** LIBRARY FUNCTIONS ****
 
-comment Part of the contract in the 'IUniswapV2Router02.sol' will get run out of gas error.
+COMMENT Part of the contract in the 'IUniswapV2Router02.sol' will get run out of gas error.
 from :'function swapExactTokensForTokensSupportingFeeOnTransferTokens' to  END
 
 run truflle compile : to compile contracts
