@@ -1,4 +1,5 @@
 Clone V2 core from uniswap
+
 Clone periphery from uniswap 
 
 Create Token X and Token Y simple ERC20 contract
@@ -50,14 +51,15 @@ npm int -y
 
 npm install @uniswap/lib @uniswap/v2-core
 
-change solidity version 
+Change solidity version to match 
 
 create WETH contract *uniswap does not use ether but only use wrapped ether for router contract*
 
 Find address for Wrapped Ether and copy code 
 
-copy the Factory contract address and paste in the 'deploy_contracts.js' Factory Address
-copy the WETH address and paste in the 'deploy_contracts.js' WETH Address
+Copy the Factory contract address and paste in the 'deploy_contracts.js' Factory Address
+
+Copy the WETH address and paste in the 'deploy_contracts.js' WETH Address
 
 Ensure Ganache is still running 
 
