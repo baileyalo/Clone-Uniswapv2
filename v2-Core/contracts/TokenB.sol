@@ -6,5 +6,7 @@ import '@openzeppelin/contracts/token/ERC20/ERC20.sol';
 contract TokenB is ERC20Detailed, ERC20 {
 
 
-  constructor() ERC20Detailed('Token B', 'TKB', 18) public {} 
+  constructor() ERC20Detailed('Token B', 'TKB', 18) public {
+   
+  } 
 }

@@ -66,14 +66,6 @@ run truflle compile : to compile contracts
 run truffle migrate : to deploy contract using Ganache network
 
 
-Contract created: 0xa46603800e2edee379753042b21cc388041e7fc6 ---Migration core
-
-Contract created: 0xbf5b8ed247d6365ad18a155621185eb95f5115e8---migration periphery
-
-Contract created: 0x7ecd310f282ed005a3f87dcbb5455a6f6295d060---WETH 
-
-Contract created: 0x5db21465904704d486da0933aeb2d6b49fd8e973 --- UniswapV2Router
-
 
 NB:
 
@@ -86,7 +78,11 @@ FRONT END DONE IN REACT
 
 Steps:
 
-npx create-react-app frontend
+Clone interface 
+
+npm install --global yarn
+
+yarn start
 
 create folder name contract and copy contract json files for each contract
 

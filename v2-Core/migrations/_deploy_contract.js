@@ -8,6 +8,7 @@ module.exports = async function (deployer, _network, addresses) {
 
   await deployer.deploy(TokenA);
   await deployer.deploy(TokenB);
+  
   const tokenA = await TokenA.deployed();
   const tokenB = await TokenB.deployed();
   await factory.createPair(tokenA.address, tokenB.address);
