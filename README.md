@@ -152,4 +152,10 @@ CONVERY BYTECODE FOR "UniswapV2Pair" to Hash:
 ![img9](https://user-images.githubusercontent.com/90293555/151403196-b87f9e09-b165-4d42-8bb3-00e50aa2346f.jpg)
 
 
+FRONTEND:
+
+
+![img10](https://user-images.githubusercontent.com/90293555/151406420-1bc7ff08-6afb-481f-8bfa-c43592dda240.jpg)
+
+
 
