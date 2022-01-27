@@ -143,3 +143,10 @@ GANACHE INTERFACE:
 
 ![img8](https://user-images.githubusercontent.com/90293555/151401571-0655e2d1-61eb-4731-919d-a138f7e8f9ac.jpg)
 
+CONVERY BYTECODE FOR "UniswapV2Pair" to Hash:
+
+
+![img9](https://user-images.githubusercontent.com/90293555/151403196-b87f9e09-b165-4d42-8bb3-00e50aa2346f.jpg)
+
+
+
