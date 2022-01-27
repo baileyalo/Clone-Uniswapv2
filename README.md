@@ -67,6 +67,7 @@ COMMENT Part of the contract in the 'UniswapV2Router02.sol' will get run out of 
 from :// **** SWAP (supporting fee-on-transfer tokens) ****  to  // **** LIBRARY FUNCTIONS ****
 
 COMMENT Part of the contract in the 'IUniswapV2Router02.sol' will get run out of gas error.
+
 from :'function swapExactTokensForTokensSupportingFeeOnTransferTokens' to  END
 
 run truflle compile : to compile contracts
