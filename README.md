@@ -88,12 +88,6 @@ run truffle migrate : to deploy contract using Ganache network
 
 You can add Ganache to the interface version by adding both Truffle config files to Project in interface.
 
-NB:
-
-1. No deploymeent code
-
-2. smart contracts are in different repo and they use different versions.
-3. two separate truffle project need to be created.
 
 FRONT END DONE IN REACT
 
@@ -122,7 +116,7 @@ Generate the hash init using the Bytecode of UniswapV2Library contract
             ))));
     }
 
-yarn start
+yarn start : start the frontend.
 
 
 ![img1](https://user-images.githubusercontent.com/90293555/151400986-871197ca-3ccf-42db-bdd2-97a36f212f67.jpg)
@@ -158,7 +152,7 @@ GANACHE INTERFACE:
 
 ![img8](https://user-images.githubusercontent.com/90293555/151401571-0655e2d1-61eb-4731-919d-a138f7e8f9ac.jpg)
 
-CONVERY BYTECODE FOR "UniswapV2Pair" to Hash:
+CONVERT BYTECODE FOR "UniswapV2Pair" to Hash:
 
 
 ![img9](https://user-images.githubusercontent.com/90293555/151403196-b87f9e09-b165-4d42-8bb3-00e50aa2346f.jpg)
