@@ -1,3 +1,12 @@
+
+
+
+Description 
+
+
+Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. Uniswap is also the name of the company that initially built the Uniswap protocol. The protocol facilitates automated transactions between cryptocurrency tokens on the Ethereum blockchain through the use of smart contracts. As of October 2020, Uniswap was estimated to be the largest decentralized exchange and the fourth-largest cryptocurrency exchange overall by daily trading volume.
+
+
 In this project  Uniswapv2 was forked and a clone was created with the implementation 
 of two simple tokens to exchange Token X and Token Y.
 
